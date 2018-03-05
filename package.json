@@ -1,0 +1,19 @@
+{
+  "name": "algorizm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "trim": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nekrasov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ravino/education/algorithm"
+  },
+  "description": ""
+}

@@ -1,0 +1,7 @@
+*~
+*.log
+*-lock.json
+
+
+node_modules/
+semestr1/
